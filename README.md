@@ -6,13 +6,13 @@ Web extension to watch GoStack videos faster at 3x
 
 ## :calling: Screens:
 
-![image](https://user-images.githubusercontent.com/59494158/89066446-d9e2a400-d343-11ea-8a82-410699fd74a9.png)
+![image](https://user-images.githubusercontent.com/59494158/90435212-141ea600-e0a5-11ea-8b11-77ae1ee12379.png)
 
 
 ## :clipboard: Usage:
 
 ```
-1. Download this files
+1. Download this files: git clone https://github.com/Luryy/GoStackSpeeder
 2. Go to your browse extensions Ex: edge://extensions
 3. Drag and drop the downloaded files
 ```
