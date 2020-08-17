@@ -1,4 +1,4 @@
-<h1 align="center"> YoutubeSpeeder :fast_forward: </h1>
+<h1 align="center"> GoStackSpeeder :fast_forward: </h1>
 
 ```
 Web extension to watch GoStack videos faster at 3x
