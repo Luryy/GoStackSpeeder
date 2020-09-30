@@ -11,6 +11,18 @@ const interval = setInterval(() => {
 
          select.add(option3x);
 
+         const option3_5x = document.createElement('option');
+         option3_5x.innerHTML = '3.5x';
+         option3_5x.value = 3.5;
+
+         select.add(option3_5x);
+
+         const option4x = document.createElement('option');
+         option4x.innerHTML = '4x';
+         option4x.value = 4;
+
+         select.add(option4x);
+
          clearInterval(interval);
          
 
